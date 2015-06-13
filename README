@@ -1,0 +1,9 @@
+Simple Dual CNC driver (or 4 DC motors) useing 2 L293 chip
+
+This driver can be used to control 2 Bipolar stepper motors (4 wires motor) or it can be used to control 4 DC motors
+
+Included example cods to run the motors (written in both ANSI-C"ATmeal Studio" and Arduino)
+
+All the files (schematics, PCB) designed by EagleCAD 7.3
+
+Licence: Creative common CC-SA-NC
